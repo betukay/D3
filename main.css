@@ -1,0 +1,15 @@
+body {
+  font-family: 'Cabin', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+rect.dimple-visa {
+  fill: #b30000;
+}
+
+text {
+  font-size: 16px !important;
+}

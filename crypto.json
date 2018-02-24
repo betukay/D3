@@ -1,0 +1,10 @@
+[
+  {"company": "Visa", "Transactions per second": 2400},
+  {"company": "Ripple", "Transactions per second": 1500},
+  {"company": "Paypal", "Transactions per second": 193},
+  {"company": "Bicoin Cash", "Transactions per second": 60},
+  {"company": "Litecoin", "Transactions per second": 56},
+  {"company": "Dash", "Transactions per second": 48},
+  {"company": "Ethereum", "Transactions per second": 20},
+  {"company": "Bitcoin", "Transactions per second": 7}
+]
