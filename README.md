@@ -18,4 +18,4 @@ Take a moment and observe the first chart. What do the size of the bubbles tell 
 
 
 
-With the implementation of d3 and dimple.js libraries, this redesigned chart more accurately conveys the descrepeny in transaction speed. 
+With the implementation of d3 and dimple.js libraries, this redesigned chart more accurately conveys the descrepancy in transaction speed. 
